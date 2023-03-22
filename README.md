@@ -7,4 +7,5 @@
 - Studied at the University of Technology of Compiègne
     - Master's Degree in <a href="https://www.utc.fr/formations/diplome-dingenieur/genie-informatique-gi/filiere-intelligence-artificielle-et-science-des-donnees-iad/">Computer Science (Artificial Intelligence & Data Science)</a>
     - Master's Degree in <a href="https://www.utc.fr/formations/diplome-de-master/mention-ingenierie-des-systemes-complexes-isc/parcours-apprentissage-et-optimisation-des-systemes-complexes-aos/">Machine Learning & Optimization of Complex Systems</a>
-- Starting a Ph.D. at Ecole des Ponts ParisTech (aka ENPC).
+- Currently at Ecole des Ponts ParisTech (aka ENPC).
+    - Ph.D. with <a href=https://davidpicard.github.io>David Picard</a> : Flexible Image Embeddings
